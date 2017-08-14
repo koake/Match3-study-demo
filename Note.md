@@ -18,7 +18,7 @@ Contents:
 [day4](#day4)
 
 --------
-<span id = "day1">day1- note</span>
+<span id = "day1">day1</span>
 ------
 
     目录结构： {
