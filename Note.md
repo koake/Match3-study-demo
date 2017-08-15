@@ -37,8 +37,8 @@ Contents:
     }
 
 
-> 有部分资源是不在`Resources`下的，就意味着，这些资源，一般是用`鼠标去拖动`的
-    `LoadingScene.unity`这个UI背景居然是带着`processbar`的背景的，醉了
+> 有部分资源是不在`Resources`下的，就意味着，这些资源，一般是用`鼠标去拖动`的，
+  不能去使用代码加载。`LoadingScene.unity`这个UI背景居然是带着`processbar`的背景的，醉了
 
 <img src="https://raw.githubusercontent.com/koake/Match-3-Jewel-Full-298-Levels---TemplateProject/master/Assets/Graphics/Load/background_loading.png" width = "300" alt="background" />
 
